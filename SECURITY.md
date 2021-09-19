@@ -1,17 +1,10 @@
 # Security Policy
 
-## Supported Versions
+## Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+No version have known security issues currently!
 
 ## Reporting a Vulnerability
 
 Use https://github.com/Malix-Off/Le_Rooftop_Bot/issues to report a vulnerability.
+Do not talk with anyone about the vulnerability, we will reach you back if we need further informations
