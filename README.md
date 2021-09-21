@@ -1,4 +1,4 @@
-# Le_Rooftop_Bot
+# Le Rooftop™ Bot
 The custom Discord bot for Le Rooftop™ using Discord.js
 
 ## Purpose
