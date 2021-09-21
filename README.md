@@ -8,6 +8,7 @@ The custom Discord bot for Le Rooftop™ using Discord.js
 ## Development Information
 - **Language** : JavaScript
 - **Library** : Discord.js
+- **IDE** : Microsoft Visual Studio Community 2019 _(not optimized for this project)_
 - **Server** : Hosted on a friend's server
   - Specs : _will come later_
 
